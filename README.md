@@ -86,5 +86,5 @@ The notebook creates and populates three SQLite tables:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/chicago-sql-python-analysis.git
+git clone https://github.com/sarojAd735/chicago-sql-python-analysis.git
 cd chicago-sql-python-analysis
